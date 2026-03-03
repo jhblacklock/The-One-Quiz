@@ -1,2 +1,2 @@
 rich>=13.0
-lotr-sdk @ file:///Users/jackson/Projects/postman_interview/lotr-sdk
+lotr-sdk @ git+https://github.com/jhblacklock/Jackson-Blacklock-SDK.git
